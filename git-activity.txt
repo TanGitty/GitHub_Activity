@@ -1,1 +1,2 @@
 This is my first Git activity.
+This update was made in feature-branch.
